@@ -12,7 +12,7 @@ This project automates the login functionality of the Tichi web application usin
 ## Project Structure
 
 ```
-Tichi_Project/
+Tichi
 │
 ├── login.py
 ├── test.py
