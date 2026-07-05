@@ -16,6 +16,8 @@ Tichi_Project/
 │
 ├── login.py
 ├── test.py
+├── invalid.py
+├── empty.py
 ├── requirements.txt
 └── README.md
 ```
